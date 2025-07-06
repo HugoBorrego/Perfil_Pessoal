@@ -4,7 +4,7 @@
 
 Na raiz do repositório estão os seguintes arquivos:
 
-- perfil.html
+- index.html
 - styles.css
 
 O conteúdo da página está dividido em seções:
